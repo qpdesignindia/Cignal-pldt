@@ -1,0 +1,194 @@
+{
+  "global/colors": {
+    "Primary": {
+      "RED": {
+        "value": "#EC2027",
+        "type": "color"
+      },
+      "Grey": {
+        "value": "#424242",
+        "type": "color"
+      },
+      "white": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "Black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "Blue": {
+        "value": "#1E429B",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "#7d7d7d",
+        "type": "color"
+      },
+      "yellow": {
+        "value": "#d3d515",
+        "type": "color"
+      }
+    },
+    "background": {
+      "main": {
+        "value": "#111111",
+        "type": "color"
+      }
+    },
+    "Radius": {
+      "Radius4": {
+        "value": "4",
+        "type": "borderRadius"
+      },
+      "Radius 6": {
+        "value": "6",
+        "type": "borderRadius"
+      },
+      "Radius 8": {
+        "value": "8",
+        "type": "borderRadius"
+      }
+    },
+    "Shades": {
+      "Grey -1": {
+        "value": "#C4C4C4",
+        "type": "color"
+      },
+      "Grey-2": {
+        "value": "#ECECEC",
+        "type": "color"
+      },
+      "grey-3": {
+        "value": "#F7F7F7",
+        "type": "color"
+      },
+      "Grey-4": {
+        "value": "#9E9E9E",
+        "type": "color"
+      },
+      "Grey-5": {
+        "value": "#242020",
+        "type": "color"
+      },
+      "Grey-6": {
+        "value": "#1A1D1E",
+        "type": "color"
+      },
+      "Grey-7": {
+        "value": "#101010",
+        "type": "color"
+      },
+      "Grey-8": {
+        "value": "#2D2D2D",
+        "type": "color"
+      }
+    },
+    "Font Weight": {
+      "Light": {
+        "value": "300",
+        "type": "fontWeights"
+      },
+      "Regular": {
+        "value": "400",
+        "type": "fontWeights"
+      },
+      "Medium": {
+        "value": "500",
+        "type": "fontWeights"
+      },
+      "semiBold": {
+        "value": "600",
+        "type": "fontWeights"
+      },
+      "Bold": {
+        "value": "700",
+        "type": "fontWeights"
+      },
+      "Extra Bold": {
+        "value": "800",
+        "type": "fontWeights"
+      }
+    },
+    "Font": {
+      "Font Family": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    },
+    "Font Size": {
+      "36": {
+        "value": "36",
+        "type": "fontSizes"
+      },
+      "42px": {
+        "value": "42px",
+        "type": "fontSizes"
+      },
+      "32px": {
+        "value": "32",
+        "type": "fontSizes"
+      },
+      "28px": {
+        "value": "28px",
+        "type": "fontSizes"
+      }
+    }
+  },
+  "$themes": [
+    {
+      "id": "6e8a76dea52c28f71eb83669de2628033f6857b2",
+      "name": "plive",
+      "$figmaStyleReferences": {
+        "primary.RED": "S:0686eba660bb023866686df9692e4d4cae7a94ea,",
+        "primary.Grey": "S:01c71229a85fde7c7dd0b4803901da41b670f65b,",
+        "primary.white": "S:705a24f6f0ceaea6a8130781c04717d37a385a2d,",
+        "primary.Black": "S:5c5470a0bdad52c4ff100f70131ed07514ce7b49,",
+        "primary.Blue": "S:3fa2b8ec89b46ee90ab68ca995432182a53192f1,",
+        "primary.Disabled": "S:1669014b801c9cbc198055287352ca14c31e3ce7,",
+        "background.main": "S:4c67af56cbbadae50ce8256d6812bd9d07e7d4a4,",
+        "Shades.Grey -1": "S:ffe6ec1a05669363a7fdeac0f7b895e5e2aba890,",
+        "Shades.Grey-2": "S:21890a7d34802ccdc97db87367fb76a3a2ff9216,",
+        "Shades.grey-3": "S:2ee4941cf213d8568f3c74d3836efd20a7ef6a0b,",
+        "Shades.Grey-4": "S:7fd74f2ebb9b2b5659dbfe8f15a650200c096178,",
+        "Shades.Grey-5": "S:af53332b9e6d37a9e97886b419db3e2bcaa9ad2b,",
+        "Shades.Grey-6": "S:cfd5b27123f2a3985ead189db3205705ce7cf378,",
+        "Shades.Grey-7": "S:dcedf29aac03c80ab52fa346e3a80a96da02a778,",
+        "Shades.Grey-8": "S:3a71add3ca13b97e45a7969bbacc4ccdad4db7e7,",
+        "Primary.RED": "S:47cb8d95b94f829b2ccf3573be1fe7d0aa059ea2,",
+        "Primary.Grey": "S:554d864290d5896301e0146accde7f06637814ef,",
+        "Primary.white": "S:a60898641cbff39605469e85e440188a863547a8,",
+        "Primary.Black": "S:05adb4022fe29446f79b8b6b4678369cf58f16c0,",
+        "Primary.Blue": "S:203a401c55d3a9769ec31a28721e7d88518d5c4c,",
+        "Primary.Disabled": "S:805a35a9d427caff431570f80964d8bf5e79af3a,",
+        "Primary.yellow": "S:113d7cb4263e296a979f9c1c777b318e963113a2,"
+      },
+      "selectedTokenSets": {
+        "global/colors": "enabled"
+      },
+      "$figmaVariableReferences": {
+        "Radius.Radius4": "133acbcaf5c29b9166abe6c2353777e668242ccd",
+        "Radius.Radius 6": "9f2a7c8f4296abb2201c3dfe8be1b72421006505",
+        "Font Weight.Light": "104057355520efa5f547b37076db8ffbcae2f5d6",
+        "Font Weight.Regular": "20fcaa6aa49e5d4764e772a9b9d938ae5ccebcac",
+        "Font Weight.Medium": "e1a66755703b3b3428f2941e58ddbafbd3d510a8",
+        "Font Weight.semiBold": "9aeac950ec7a1ff92be8a1b27d25318e503a68b7",
+        "Font Weight.Bold": "200d979c3e59963ca37fb28b730b908561c96cfd",
+        "Font Weight.Extra Bold": "733f98dfaae040b30b18e18a8c0d223bdacdf4df",
+        "Font.Font Family": "0eedae08dcb0054e1b35f1c2f5f94b4077aa6ba9",
+        "Radius.Radius 8": "a53de5f8c5b3386f283e20b8a30d14ef5c532e6c",
+        "Font Size.42px": "01a0133e63b2cc69c83e1dc496aed6827f1cb04d",
+        "Font Size.32px": "59db99ac0cd6c05d4c7077f9a95442600fb53dbb",
+        "Font Size.28px": "58ff5063a092d88b71475ddf313c451fe365d24e",
+        "Font Size.36": "1d6db21c3c61f78d3a9bbef9d23858045aeca456"
+      },
+      "$figmaCollectionId": "VariableCollectionId:21:6667",
+      "$figmaModeId": "21:2"
+    }
+  ],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global/colors"
+    ]
+  }
+}
