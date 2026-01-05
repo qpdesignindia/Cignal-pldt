@@ -1,5 +1,10 @@
 {
-  "global": {},
+  "global": {
+    "Plive Github": {
+      "value": "24",
+      "type": "sizing"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
